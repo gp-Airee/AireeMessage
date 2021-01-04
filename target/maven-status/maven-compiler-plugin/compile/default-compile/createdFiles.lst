@@ -1,0 +1,4 @@
+host\airee\aireemessage\aireemessage\AireeMessage.class
+host\airee\aireemessage\aireemessage\MessageCommand.class
+host\airee\aireemessage\aireemessage\ReplyCommand.class
+host\airee\aireemessage\aireemessage\RedisManager.class

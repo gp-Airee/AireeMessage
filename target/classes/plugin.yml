@@ -1,0 +1,7 @@
+name: AireeMessage
+version: 1.0-SNAPSHOT
+main: host.airee.aireemessage.aireemessage.AireeMessage
+api-version: 1.13
+commands:
+  message:
+  reply:

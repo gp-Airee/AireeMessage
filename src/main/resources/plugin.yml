@@ -1,0 +1,7 @@
+name: AireeMessage
+version: ${project.version}
+main: host.airee.aireemessage.aireemessage.AireeMessage
+api-version: 1.13
+commands:
+  message:
+  reply:
